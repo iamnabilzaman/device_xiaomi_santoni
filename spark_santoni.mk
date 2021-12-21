@@ -36,6 +36,9 @@ PRODUCT_NAME := spark_santoni
 BOARD_VENDOR := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
 
+#Faceunlock
+TARGET_FACE_UNLOCK_SUPPORTED := true
+
 # Power
 PRODUCT_PACKAGES += \
     android.hardware.power-service
