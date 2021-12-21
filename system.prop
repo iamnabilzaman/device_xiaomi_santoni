@@ -110,3 +110,6 @@ persist.timed.enable=true
 
 # Zygote preforking
 persist.device_config.runtime_native.usap_pool_enabled=true
+
+#SparkOS Maintainer
+ro.spark.maintainer=iamnabilzaman
