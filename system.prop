@@ -1,4 +1,4 @@
-#system.prop for msm8937
+#system.prop for msm8940
 
 # Audio
 audio.offload.disable=true
